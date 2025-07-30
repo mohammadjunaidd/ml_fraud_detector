@@ -5,8 +5,9 @@
 This project aims to detect fraudulent transactions within a financial dataset containing over **6.3 million records**. The workflow involved thorough data analysis, intelligent feature engineering, and the deployment of robust machine learning models—tackling real-world challenges like class imbalance and the significance of transaction outliers.
 
 ## Dataset Summary
-
+-**
 - **Source File:** `Fraud.xlsx`
+- **Download Link:** [Click here to download the dataset](https://drive.google.com/file/d/15qUXu1ztjybd9qDtYrpsvyaluAKBDmQ2/view?usp=sharing)
 - **Rows:** 6,300,000+
 - **Columns:** 11
 - **Fraudulent Cases:** ~8,200 (Rare/Imbalanced)
@@ -38,11 +39,15 @@ This project aims to detect fraudulent transactions within a financial dataset c
 
 ## Project Structure
 
-├── Accredian_Assingment.ipynb # Complete notebook with code and analysis
-├── Fraud.xlsx # Transaction dataset
-├── generated-image.png # Output visualization(s)
-├── README.md # This documentation
-├── requirements.txt # Python dependencies
+├── Accredian_Assingment.ipynb
+
+├── Fraud.xlsx
+
+├── generated-image.png
+ 
+├── README.md
+
+├── requirements.txt
 
 
 ## Technologies Used
